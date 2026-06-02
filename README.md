@@ -142,7 +142,7 @@ Verkon toimivuuden varmistin pingeillä ja Tracerouteilla Työasemien välillä.
 
 * [Kytkin 1](konfiguraatiot/SW1.cfg)
 
-* [Kytkin 2](konfiguraatiot/SW1.cfg)
+* [Kytkin 2](konfiguraatiot/SW2.cfg)
 
 ## Käytetyt teknologiat
 
