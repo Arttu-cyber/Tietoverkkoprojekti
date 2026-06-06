@@ -15,7 +15,7 @@ Projektissa yhdistettiin seuraavat verkkotekniikat:
 
 ## Topologiat
 
-Projetkin ensimmäinen vaihe oli topologioiden suunnittelu.
+Projetkin ensimmäinen vaihe oli topologioiden suunnittelu
 
 Fyysinen:
 
