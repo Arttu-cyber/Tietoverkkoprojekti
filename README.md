@@ -15,6 +15,8 @@ Projektissa yhdistettiin seuraavat verkkotekniikat:
 
 ## Topologiat
 
+Projetkin ensimmäinen vaihe oli topologioiden suunnittelu.
+
 Fyysinen:
 
 ![Image](topologiat/Fyysinentopologia.png)
@@ -165,3 +167,4 @@ Projektin aikana harjoittelin:
 * DHCP palveluiden käyttöönottoa VYOS:issa
 * Staattisten reittien määrittämistä
 * Verkkovianmääritystä ping ja traceroute työkaluilla
+* Fyysisen ja loogisen verkkotopologian suunnittelua
